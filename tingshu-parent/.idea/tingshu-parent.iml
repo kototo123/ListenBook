@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/common/common-log/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common/common-util/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common/kafka-util/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common/service-util/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common/spring-security/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/model/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server-gateway/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service-client/service-account-client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service-client/service-album-client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service-client/service-order-client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service-client/service-search-client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service-client/service-system-client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service-client/service-user-client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-account/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-album/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-comment/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-dispatch/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-live/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-order/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-payment/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-search/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-system/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/service-user/src/main/java" isTestSource="false" />
+    </content>
+  </component>
+</module>
